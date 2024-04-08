@@ -1,4 +1,4 @@
-🔒 Cybersecurity Engineer & Analyst  
+🔒 Cybersecurity Engineer  
 💻 Tool Development 
 🐍 Python  
 🔧 Bash Aficionado  
