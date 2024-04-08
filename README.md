@@ -1,5 +1,5 @@
 🔒 Cybersecurity Engineer & Analyst  
-💻 Tool Development Enthusiast  
+💻 Tool Development 
 🐍 Python  
 🔧 Bash Aficionado  
 🚀 GolANG 
