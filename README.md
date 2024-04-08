@@ -1,6 +1,6 @@
 🔒 Cybersecurity Engineer  
-💻 Tool Development 
+💻 Tool Development
 🐍 Python  
 🔧 Bash Aficionado  
-🚀 GolANG 
-🎮 Hack The Box 
+🚀 GoLang
+🎮 Hack The Box
